@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CampusLiveLauncher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CampusLiveLauncher_jar</output-path>
+    <root id="archive" name="CampusLiveLauncher.jar">
+      <element id="module-output" name="CampusLiveLauncher" />
+    </root>
+  </artifact>
+</component>
